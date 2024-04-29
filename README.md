@@ -1,5 +1,5 @@
 # 1-D Convolution demystified: Illustration on synthetic and practical signals
-This a jupyter notebook to describe a tutorial on the topic 1-D convolution of signals. It covers the concept of convolution and how it's applied. Convolution is also applied on some known synthetic signals and practical signals using python. Several applications of 1-D convolution are also mentioned.
+This is a jupyter notebook to describe a tutorial on the topic 1-D convolution of signals. It covers the concept of convolution and how it's applied. Convolution is also applied on some known synthetic signals and practical signals using python. Several applications of 1-D convolution are also mentioned.
 
 <ins> **Contents in Files**</ins> :
 1. Convolution of two 1-D signals.py - code for convolution of two 1-D arrays.
